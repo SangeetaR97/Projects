@@ -1,0 +1,4 @@
+#Image Classification using Deep Learning 
+
+Tools : Python, TensorFlow, Keras, Jupyter Notebook, OpenCV, Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn.
+Developed an image classification model using deep learning techniques to categorize images accurately. As the lead developer, I designed and implemented a convolutional neural network CNN) in Python, utilizing TensorFlow and Keras. This project enhanced my skills in model building and data analysis, achieving 85% accuracy in classifying various image datasets.
